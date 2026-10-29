@@ -1,4 +1,4 @@
-# Ejercicio calificado 1 · Incendios en el Perú (últimos 60 días)
+# Incendios-en-Peru · Incendios en el Perú (últimos 60 días)
 
 **Objetivo:** identificar las zonas del Perú más afectadas por incendios de vegetación entre el
 29 de agosto y el 27 de octubre de 2026, y caracterizar qué tipo de cobertura se quemó.
